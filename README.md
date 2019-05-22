@@ -1,2 +1,2 @@
-  TIle-based-collision-test
-check the Fix-dev folder to see the collsion code that works.
+  Tile-based-collision code
+made code that checks an tile grid for collision. good for a top down game or platformer
